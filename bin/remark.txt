@@ -1,0 +1,10 @@
+1.配置数据源 
+AutoProperties.java
+
+2.配置目录结构
+AutoBuilder.java
+
+FILE_DIR: 生成目录
+PAKAGE_PATH：项目包名
+TABLE_NAME：数据库表名
+ENTITY_NAME：生成的实体名称
